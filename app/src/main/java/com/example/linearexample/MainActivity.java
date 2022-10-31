@@ -71,6 +71,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         startActivity(intent);
     }
 
+    public void cliquerBTNCancel(View view) {
+    }
+
     //classe interne
     class BtnListener implements View.OnClickListener {
 
